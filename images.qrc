@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close.png</file>
+        <file>images/close_hover.png</file>
+        <file>images/max.png</file>
+        <file>images/max_hover.png</file>
+        <file>images/min.png</file>
+        <file>images/min_hover.png</file>
+        <file>images/scaling_desktop.png</file>
+        <file>images/scaling_desktop_hover.png</file>
+        <file>images/title_log.png</file>
+        <file>images/top_bg.png</file>
+    </qresource>
+</RCC>
